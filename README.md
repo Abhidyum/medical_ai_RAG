@@ -80,7 +80,7 @@ Once the application is running, you can start asking your medical questions dir
     ```
 
 2. **Ask a question**:
-    Enter your medical question in the input field and press enter or press the "Ask" button.
+    Enter your medical question in the input field and press enter or press the send button.
     
     Example:
     ```
