@@ -1,6 +1,6 @@
 # Nurse Joy: Your Personal Nurse
 
-Welcome to **Nurse Joy**, the intelligent medical chatbot system designed to provide answers to all your medical questions. Trained on comprehensive medical books, Nurse Joy offers precise and insightful responses to enhance your understanding of medical topics.
+Welcome to **Nurse Joy**, the intelligent medical chatbot system designed to provide reliable answers to all your medical questions. Trained on comprehensive medical books, Nurse Joy offers precise and insightful responses to enhance your understanding of medical topics.
 
 ## Introduction
 
@@ -14,7 +14,7 @@ Here’s a preview of Nurse Joy:
 
 ## Features
 
-- **Comprehensive Knowledge**: Uses a large number of medical books to retrieve information.
+- **Comprehensive Knowledge**: Uses a large number of authentic medical books to retrieve information.
 - **Vector Database**: Utilizes Chroma vector database for efficient information retrieval based on semantic similarity.
 - **Accurate Responses**: Provides precise answers to your medical questions.
 - **User-Friendly Interface**: Easy to interact with and get the information you need.
