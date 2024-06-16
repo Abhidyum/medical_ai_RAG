@@ -1,10 +1,16 @@
 # Nurse Joy: Your Personal Nurse
 
-Welcome to **Nurse Joy**, the intelligent Q&A system designed to provide answers to all your medical questions. Trained on comprehensive medical books, Nurse Joy offers precise and insightful responses to enhance your understanding of medical topics.
+Welcome to **Nurse Joy**, the intelligent medical chatbot system designed to provide answers to all your medical questions. Trained on comprehensive medical books, Nurse Joy offers precise and insightful responses to enhance your understanding of medical topics.
 
 ## Introduction
 
-Nurse Joy is an advanced question-answering RAG system tailored for the medical community. Whether you are a healthcare professional or simply seeking medical knowledge, Nurse Joy helps you find answers to your medical queries quickly and efficiently.
+Nurse Joy is an advanced question-answering RAG system tailored for the medical community. Whether you are a healthcare professional or simply seeking medical attention, Nurse Joy helps you find answers to your medical queries quickly and efficiently.
+
+## Screenshot
+
+Here’s a preview of Nurse Joy:
+
+![medical_Ch](https://github.com/Abhidyum/medical_ai_RAG/assets/94860032/781a16cd-b4bb-4706-bb7a-2ce46cc6f856)
 
 ## Features
 
@@ -25,11 +31,18 @@ The Retrieval-Augmented Generation (RAG) system enhances the capabilities of a s
 
 4. **Response Delivery**: Finally, the system delivers the generated response back to the user through the user-friendly interface.
 
-## Screenshot
 
-Here’s a preview of Nurse Joy:
 
-![medical_Ch](https://github.com/Abhidyum/medical_ai_RAG/assets/94860032/781a16cd-b4bb-4706-bb7a-2ce46cc6f856)
+## Tech Stack
+
+- **Python**: Core programming language used for development.
+- **Flask**: Web framework used to build the web application.
+- **LangChain**: Library used to build the question-answering system.
+- **Chroma**: Vector database used for efficient information retrieval.
+- **Bootstrap**: Front-end framework for responsive web design.
+- **jQuery**: JavaScript library used for DOM manipulation and AJAX requests.
+- **Llama 2**: Pre-trained language model used for generating responses.
+- **HTML/CSS**: Markup and styling for the web interface.
 
 
 ## Installation
