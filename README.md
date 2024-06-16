@@ -29,7 +29,8 @@ The Retrieval-Augmented Generation (RAG) system enhances the capabilities of a s
 
 Here’s a preview of Nurse Joy:
 
-![nurse_joy](https://github.com/yourusername/nurse-joy-chatbot/assets/your_asset_id/nurse_joy_image.png)
+![medical_Ch](https://github.com/Abhidyum/medical_ai_RAG/assets/94860032/781a16cd-b4bb-4706-bb7a-2ce46cc6f856)
+
 
 ## Installation
 
