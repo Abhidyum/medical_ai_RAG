@@ -51,8 +51,8 @@ To set up Nurse Joy on your local machine, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/nurse-joy-chatbot.git
-    cd nurse-joy-chatbot
+    git clone https://github.com/Abhidyum/medical_ai_RAG.git
+    cd medical_ai_RAG
     ```
 
 2. **Download the quantized Llama 2 model**:
